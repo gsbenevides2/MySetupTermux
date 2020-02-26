@@ -1,8 +1,9 @@
 # MySetupTermux
 
 [![Build Status](https://travis-ci.org/gsbenevides2/MySetupTermux.svg?branch=master)](https://travis-ci.org/gsbenevides2/MySetupTermux)
-![npm](https://img.shields.io/npm/v/my-termux-setup)
-![NPM](https://img.shields.io/npm/l/my-termux-setup)
+![npm](https://img.shields.io/npm/v/my-setup-termux)
+![NPM](https://img.shields.io/npm/l/my-setup-termux)
+<br/>
 Save your configuration files easily and securely within GitHub Gist.
 
 ## Installation
