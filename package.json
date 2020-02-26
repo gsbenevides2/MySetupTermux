@@ -1,0 +1,16 @@
+{
+  "name": "my-setup-termux",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "my-setup-termux": "index.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "chalk": "^3.0.0",
+    "commander": "^4.1.1",
+    "express": "^4.17.1",
+    "open": "^7.0.2"
+  }
+}
